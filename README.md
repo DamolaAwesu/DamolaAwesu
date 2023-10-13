@@ -4,7 +4,7 @@
   <a href="https://github.com/DamolaAwesu/DamolaAwesu/">
     <img src="https://komarev.com/ghpvc/?username=DamolaAwesu" alt="DamolaAwesu" />
   </a>
-  <a href="https://github.com/junkurihara">
+  <a href="https://github.com/DamolaAwesu">
     <img height="20" src="https://img.shields.io/github/followers/DamolaAwesu?label=follow&logo=github&style=flat" />
   </a>
 </p>
