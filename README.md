@@ -16,7 +16,7 @@ I am Damola Awesu, an embedded software engineer based in :fr: currently working
 - Open to collaboration, especially on C and Perl projects.
 
 ### Current work
-Outside of work, I am working on improving my Perl scripting skills and this is documented in my PerlSqlTuto repo @ https://github.com/DamolaAwesu/PerlSqlTuto.
+Outside of work, I am working on getting into Embedded Linux and some IoT development to broaden my skills
 
 <!--
 **DamolaAwesu/DamolaAwesu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
